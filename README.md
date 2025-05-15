@@ -1,16 +1,11 @@
-# scoreboard_app
+# Scoreboard App
 
-A new Flutter project.
+A simple and responsive Flutter app to keep score between two teams. Designed for split-screen use, each team has:
 
-## Getting Started
+- A full-screen colored section
+- A large, auto-sized score number
+- Tap gestures: tap the top half to increase the score, the bottom half to decrease
+- Clean, bold design — perfect for casual sports or game nights
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
